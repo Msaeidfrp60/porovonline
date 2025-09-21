@@ -1,0 +1,7 @@
+{
+  "name": "app2_پرو-مجازی",
+  "description": "An application that allows users to virtually try on clothes by uploading a photo of themselves and a photo of the garment. It includes a subscription model for extended use.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
